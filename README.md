@@ -6,10 +6,6 @@ Kimberly Furuya
 
 July 25 2016
 
-###Summary:
-
-We will always do my best to fulfill your needs and meet your goals, but sometimes it is best to have a few simple things written down so that I both know what is what, who should do what and what happens if stuff goes wrong. In this contract you won't find complicated legal terms or large passages of unreadable text. I have no desire to trick you into signing something that you might later regret. I do want what's best for the safety of both parties, now and in the future.
-
 ####In short:
 
 You (Pasquini Imports Inc) are hiring me (Kimberly Furuya) to convert the Livia G4 Auto w/PID into a touchscreen equivalent at the hourly rate of $40 per hour for UX design, $35 per hour for sensor installation and integration testing, $65 per hour for software engineering work, and $30 per hour for interface engineering work.
@@ -18,7 +14,7 @@ You (Pasquini Imports Inc) are hiring me (Kimberly Furuya) to convert the Livia 
 
 As my customer, you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide me with everything that I need to complete the project including text, images and other information as and when I need it, and in the format that I ask for. You agree to review my work, provide feedback and sign-off approval in a timely manner. Deadlines work two ways and you will also be bound by any dates that we set together. You also agree to stick to the payment schedule set out at the end of this contract.
 
-We have the experience and ability to perform the services you need from me and I will carry them out in a professional and timely manner. Along the way I will endeavor to meet all the deadlines set but I can't be responsible for a missed launch date or a deadline if you have been late in supplying materials or have not approved or signed off my work on-time at any stage. On top of this I will also maintain the confidentiality of any information that you give me.
+I have the experience and ability to perform the services you need from me and I will carry them out in a professional and timely manner. Along the way I will endeavor to meet all the deadlines set but I can't be responsible for a missed launch date or a deadline if you have been late in supplying materials or have not approved or signed off my work on-time at any stage. On top of this I will also maintain the confidentiality of any information that you give me.
 
 ###Getting down to the nitty gritty
 
@@ -50,12 +46,12 @@ This contract will be declared complete when all work completed has been paid in
 Any additional development needed above and beyond what I have agreed to here must be accompanied by an additional contract which I will be happy to provide upon request. I retain the right to refuse additional work that is not specifically outlined in this document.
 
 ####Contact
-All communications will be made during regular business hours (Monday-Friday, 10am-6pm PST, excluding holidays) and I will return any contact requests within one business day unless I notify you ahead of time that I will be out of the office. Of course I understand that emergencies do arise, so in the case of one know that my hours will be billed at time and a half. I appreciate communication in a text-based medium, but understand that not all discussions are easily done this way. We’re happy to speak to you on the phone, over Skype/Google Hangout, or in person if you are in the Los Angeles area, keeping in mind that any decisions that are made will be written down and require your written approval.
+All communications will be made during regular business hours (Monday-Friday, 10am-6pm PST, excluding holidays) and I will return any contact requests within one business day unless I notify you ahead of time that I will be out of the office. Of course I understand that emergencies do arise, so in the case of one know that my hours will be billed at time and a half. I appreciate communication in a text-based medium, but understand that not all discussions are easily done this way. I am happy to speak to you on the phone, over Skype/Google Hangout, or in person if you are in the Los Angeles area, keeping in mind that any decisions that are made will be written down and require your written approval.
 
 As I value your time as well as my own, I ask that all meetings be scheduled a minimum of one business day in advance and be accompanied by an agenda so that I can be fully prepared. If I am unable to attend a meeting at your suggested time, I will be happy to provide two times that will work for me. Meetings must start and end on or before the time allotted and will be charged for whether you attend or not.
 
 ####Project Management
-If you do not have a preferred project management tool, I will provide you with a login for mine where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. We’ll be relying on you to participate by answering my questions, stating your approval, requesting changes, and verifying completeness through the tool as well. I ask for a one business day turnaround time on responses so I can keep things moving along at a pace that will allow me to hit the milestones I decided on together. 
+If you do not have a preferred project management tool, I will provide you with a login for mine where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. I'll be relying on you to participate by answering my questions, stating your approval, requesting changes, and verifying completeness through the tool as well. I ask for a one business day turnaround time on responses so I can keep things moving along at a pace that will allow me to hit the milestones I decided on together. 
 To keep the project organized and the management of it easier, I prefer not to communicate any of the information stated above over ordinary email.
 
 ###Legal stuff
@@ -71,7 +67,7 @@ You guarantee to me that any elements of text, graphics, photos, designs, tradem
 
 When I receive your final payment, copyright is automatically assigned as follows:
 
-You own the graphics and other visual elements that I create for you for this project. I will give you a copy of all files and you should store them safely as I are not required to keep them or provide any native source files that I used in making them.
+You own the graphics and other visual elements that I create for you for this project. I will give you a copy of all files and you should store them safely as I am not required to keep them or provide any native source files that I used in making them.
 
 You also own text content, photographs and other data you provided, unless someone else owns them. I own the code I produced and I retain the rights to license it how I choose or to contribute it back to the open source project which it is based on.
 I love to show off my work and share what I have learned with other people, so I also reserve the right to display and link to your completed project as part of my portfolio and to write about the project on web sites, in magazine articles and in books as well as speak about them publicly at conferences. Of course I'm happy to keep this information to myself until your project goes live or 6 months from the handover date, whichever is sooner.
@@ -84,7 +80,7 @@ I am sure you understand how important it is as a small business that you pay th
 
 I have provided an estimate for the complete duration of anticipated work as per specifications oulined on the 25th of July, 2016.
 
-We bill every month on the first Friday and all invoices are payable upon receipt.
+I bill every month on the first Friday and all invoices are payable upon receipt.
 
 A deposit of $100 is due up front and will be subtracted from the last invoice.
 
