@@ -38,7 +38,11 @@ This project is scheduled to begin on July 26 2016 and will last an anticipated 
 Below is the milestone schedule:
 
 * Design mocks for touchscreen interface, 2 days (beginning July 26)
-* Full wiring of 
+* Full wiring of raspberry pi to machine, 4 days (beginning August 1)
+* Full developemnt and testing of drivers for peripherals, 3 days (beginning Aug 4)
+* Full development and testing of touchscreen, 5 days (beginning Aug 10)
+* Integration testing, 3 days (beginning Aug 13)
+* Final bug fixes and stability improvements, 0-7 days (beginning Aug 16)
 
 This contract will be declared complete when all work completed has been paid in full.
 
